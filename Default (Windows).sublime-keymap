@@ -1,0 +1,4 @@
+[
+	{ "keys": ["f4"], "command": "switch_file", "args": {"extensions": ["cpp", "cxx", "cc", "c", "hpp", "hxx", "h", "ipp", "inl", "m", "mm"]} },
+
+]
